@@ -21,7 +21,8 @@ return_a_value
 end
 
 def last_evaluated_value
-
+last_evaluated_value = "expert"
+last_evaluated_value
 end
 
 def pizza_party(pizza_party = "cheese")
